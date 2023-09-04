@@ -11,4 +11,4 @@ Acknowledgments:
     files](https://github.com/texstudio-org/texstudio/tree/master/completion).
 *   I converted these files from TeXstudio's format to VimTeX's format using
     [@lervag](https://github.com/lervag)'s `convert-cwl` script that ships out
-    with VimTeX.
+    with [VimTeX](https://github.com/lervag/vimtex).
